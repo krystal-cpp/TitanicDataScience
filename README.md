@@ -55,4 +55,4 @@ The dataset is taken from the [Kaggle Titanic competition](https://www.kaggle.co
 - Structuring a complete Data Science project
 
 ## 🔗 Connect with Me
-[LinedIn](https://www.linkedin.com/in/vlad-kuzmenok-11aabb32a/)
+[LinkedIn](https://www.linkedin.com/in/vlad-kuzmenok-11aabb32a/)
